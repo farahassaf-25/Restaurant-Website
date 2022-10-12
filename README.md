@@ -4,6 +4,17 @@ This is a web application developed in PHP and MySQL with the purpose of giving 
 to place a table reservation when they are in need to it.
 It is compatible with Google Chrome and Microsoft Edge. Also compatible with any device: Desktop, Mobile devices, Tablets ...
 
+Guide to run this project:
+- install xampp
+- extract zip file after download it
+- after extract, copy folder in xampp/htdocs
+- start xampp and open phpmyadmin
+- create a database name: restaurant
+- import restaurant.sql file from project folder restaurant_website/db
+- open project: http://localhost/restaurant_website/
+- admin side: http://localhost/restaurant_website/admin
+- Username: farah , Password: assaf
+
 Features:
 - admin side
 - customer side
@@ -41,6 +52,7 @@ User side:
 ![Screenshot (1506)](https://user-images.githubusercontent.com/112881147/195321086-fd478572-0dff-49d2-8c5d-c1ff3f35a1e0.png)
 
 Admin side:
+All records are saved in the database, admin can manage from website or from database.
 - login page:
 ![Screenshot (1510)](https://user-images.githubusercontent.com/112881147/195321392-79a0084f-1fdc-4a71-81bc-3b2c45b3b6e5.png)
 
