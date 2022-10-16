@@ -1,8 +1,6 @@
 # Restaurant-Website
 Restaurant Management System: 
-This is a web application developed in PHP and MySQL with the purpose of giving users the ability to place food orders online and
-to place a table reservation when they are in need to it.
-It is compatible with Google Chrome and Microsoft Edge. Also compatible with any device: Desktop, Mobile devices, Tablets ...
+Compatible with Google Chrome and Microsoft Edge. Also compatible with any device: Desktop, Mobile devices, Tablets ...
 
 Guide to run this project:
 - install xampp
